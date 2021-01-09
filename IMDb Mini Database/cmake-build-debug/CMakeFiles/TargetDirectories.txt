@@ -1,0 +1,3 @@
+X:/IMDb Mini Database/cmake-build-debug/CMakeFiles/DSA_Mini_Project.dir
+X:/IMDb Mini Database/cmake-build-debug/CMakeFiles/edit_cache.dir
+X:/IMDb Mini Database/cmake-build-debug/CMakeFiles/rebuild_cache.dir

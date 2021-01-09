@@ -1,0 +1,4 @@
+"X:\Code\CLion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "X:\IMDb Mini Database"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: X:/IMDb Mini Database/cmake-build-debug
